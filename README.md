@@ -24,13 +24,13 @@ Shaurya Shikher Gupta
 ## Screenshots
 
 ### Initial Screen
-![Initial Screen](screenshots/Initial_img.png)
+![Initial Screen](Screenshots/Initial_img.png)
 
 ### System Authentication
-![System Authentication](screenshots/System_authentication.png)
+![System Authentication](Screenshots/System_authentication.png)
 
 ### Giving Clearance
-![Giving Clearance](screenshots/giving_clearence.png)
+![Giving Clearance](Screenshots/giving_clearence.png)
 
 ### Final Output
-![Final Output](screenshots/final_output.png)
+![Final Output](Screenshots/final_output.png)
